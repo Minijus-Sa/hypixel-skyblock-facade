@@ -96,6 +96,14 @@ Click the button below to deploy the app to the DigitalOcean App Platform, from 
 
 [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/Senither/hypixel-skyblock-facade/tree/master)
 
+## Deploy directly to Hostinger
+
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/vps/docker-hosting?compose_url=docker-compose-url)
+
+### Setup Guide
+
+Click the button above to deploy the app to Hostinger, from there just follow the setup instructions.
+
 ## Deploy directly to Replit
 
 ### Prerequisites
